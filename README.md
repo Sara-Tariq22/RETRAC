@@ -1,4 +1,4 @@
-# Text-History-Undo-Redo-Management-System
+# RETRAC
 
 ## Project Title
 RETRAC: Text History & Undo/Redo Management System
