@@ -5,7 +5,7 @@ RETRAC: Text History & Undo/Redo Management System
 ## Research Question
 How can we implement a non-linear history system that allows users to revert and recover text entries efficiently without losing data?
 ## Motivation
-This project demonstrates the practical application of the Last-In, First-Out (LIFO) principle found in Stacks. By simulating the "Undo" and "Redo" features of professional software like VS Code or Word, it shows how complex historical navigation can be simplified into two stacks, ensuring high speed and low memory overhead for version tracking. [1] 
+This project demonstrates the practical application of the Last-In, First-Out (LIFO) principle found in Stacks. By simulating the "Undo" and "Redo" features of professional software like VS Code or Word, it shows how complex historical navigation can be simplified into two stacks, ensuring high speed and low memory overhead for version tracking. 
 ## Control Flow
 
    1. Launch: The application opens to a blank "Current Text" state with two empty stacks (Undo and Redo).
