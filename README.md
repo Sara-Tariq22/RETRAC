@@ -2,8 +2,8 @@
 
 ## Project Title
 RETRAC: Text History & Undo/Redo Management System
-## Research Problem
-In digital text editing, users frequently make mistakes or want to compare previous versions of their work. Without a structured way to track "state," a single mistake could result in permanent data loss. Implementing this requires a way to handle history linearly where the most recent action is always the first one to be reverted.
+## Research Question
+How can we implement a non-linear history system that allows users to revert and recover text entries efficiently without losing data?
 ## Motivation
 This project demonstrates the practical application of the Last-In, First-Out (LIFO) principle found in Stacks. By simulating the "Undo" and "Redo" features of professional software like VS Code or Word, it shows how complex historical navigation can be simplified into two stacks, ensuring high speed and low memory overhead for version tracking. [1] 
 ## Control Flow
